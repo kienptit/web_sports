@@ -38,6 +38,7 @@ $result = $conn->query($sql);
             echo "<div>No data found</div>";
         }
         ?>
+        <div>Tinh năng C </div>
     </div>
 </main>
 <?php include 'footer.php'; ?>
