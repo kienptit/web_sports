@@ -85,7 +85,7 @@ $result_news_latest = $conn->query($sql_news_latest);
                 ?>
             </div>
         </div>
-
+        <div>Tinh nang A</div>
     </div>
 </main>
 <?php include 'footer.php'; ?>
